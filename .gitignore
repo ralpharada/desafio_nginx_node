@@ -1,0 +1,6 @@
+/node/node_modules
+/mysql
+/go
+/laravel
+/docker-compose_go.yaml
+/docker-compose_laravel.yaml
